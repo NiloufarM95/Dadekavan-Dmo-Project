@@ -1,0 +1,12 @@
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\bin\Debug\net5.0\Flight-Detection.Entity.deps.json
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\bin\Debug\net5.0\Flight-Detection.Entity.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\bin\Debug\net5.0\ref\Flight-Detection.Entity.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\bin\Debug\net5.0\Flight-Detection.Entity.pdb
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.csprojAssemblyReference.cache
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.AssemblyInfoInputs.cache
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.AssemblyInfo.cs
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\ref\Flight-Detection.Entity.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Entity\obj\Debug\net5.0\Flight-Detection.Entity.pdb

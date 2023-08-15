@@ -4,11 +4,11 @@ using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using CsvHelper;
-using Flight_Detection.DataAccess.Models;
+using Flight_Detection.Entity.Models;
 using Flight_Detection.Service.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Flight_Detection
+namespace Flight_Detection.Presentation
 {
     class Program
     {
@@ -16,7 +16,6 @@ namespace Flight_Detection
         {
             try
             {
-
                 var inputParameters = GetDetectionParams();
 
                 Stopwatch stopwatch = new Stopwatch();

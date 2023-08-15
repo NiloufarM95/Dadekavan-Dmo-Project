@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Flight_Detection.DataAccess.Models
+namespace Flight_Detection.Entity.Models
 {
     public class InputParameters
     {

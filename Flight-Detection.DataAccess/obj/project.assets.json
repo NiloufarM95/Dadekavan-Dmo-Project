@@ -1490,6 +1490,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Flight-Detection.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Flight-Detection.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flight-Detection.Entity.dll": {}
+        }
       }
     }
   },
@@ -5683,11 +5693,17 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Flight-Detection.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Flight-Detection.Entity/Flight-Detection.Entity.csproj",
+      "msbuildProject": "../Flight-Detection.Entity/Flight-Detection.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "EntityFramework >= 5.0.0",
+      "Flight-Detection.Entity >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17"
     ]
   },
@@ -5721,7 +5737,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Niloofar\\Desktop\\Dadekavan Demo Project\\Flight-Detection\\Flight-Detection.Entity\\Flight-Detection.Entity.csproj": {
+              "projectPath": "C:\\Users\\Niloofar\\Desktop\\Dadekavan Demo Project\\Flight-Detection\\Flight-Detection.Entity\\Flight-Detection.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

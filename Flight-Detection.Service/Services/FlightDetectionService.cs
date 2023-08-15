@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Flight_Detection.DataAccess;
-using Flight_Detection.DataAccess.Enums;
-using Flight_Detection.DataAccess.Models;
+using Flight_Detection.Entity.Enums;
+using Flight_Detection.Entity.Models;
 
 namespace Flight_Detection.Service.Services
 {
@@ -78,7 +78,7 @@ namespace Flight_Detection.Service.Services
                     }
                     else
                     {
-                        GetFlightType(lstFlightDetectionResults, lstRoute, flight, "");
+                        GetFlightType(lstFlightDetectionResults, lstRoute, flight, string.Empty);
                     }
                 }
             }

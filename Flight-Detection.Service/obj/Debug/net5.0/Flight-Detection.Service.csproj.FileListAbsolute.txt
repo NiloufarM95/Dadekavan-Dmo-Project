@@ -3,7 +3,9 @@ C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detecti
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\ref\Flight-Detection.Service.dll
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\Flight-Detection.Service.pdb
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\Flight-Detection.DataAccess.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\Flight-Detection.Entity.dll
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\Flight-Detection.DataAccess.pdb
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\bin\Debug\net5.0\Flight-Detection.Entity.pdb
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\obj\Debug\net5.0\Flight-Detection.Service.csprojAssemblyReference.cache
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\obj\Debug\net5.0\Flight-Detection.Service.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.Service\obj\Debug\net5.0\Flight-Detection.Service.AssemblyInfoInputs.cache

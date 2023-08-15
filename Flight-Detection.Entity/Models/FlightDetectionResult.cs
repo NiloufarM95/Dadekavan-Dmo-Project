@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Flight_Detection.DataAccess.Models
+namespace Flight_Detection.Entity.Models
 {
     public class FlightDetectionResult
     {

@@ -1050,10 +1050,16 @@
       "Flight-Detection.DataAccess/1.0.0": {
         "dependencies": {
           "EntityFramework": "5.0.0",
+          "Flight-Detection.Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
         "runtime": {
           "Flight-Detection.DataAccess.dll": {}
+        }
+      },
+      "Flight-Detection.Entity/1.0.0": {
+        "runtime": {
+          "Flight-Detection.Entity.dll": {}
         }
       }
     }
@@ -1730,6 +1736,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Flight-Detection.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flight-Detection.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

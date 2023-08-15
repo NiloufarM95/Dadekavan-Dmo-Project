@@ -1,5 +1,5 @@
 ﻿using System.Data.Entity;
-using Flight_Detection.DataAccess.Models;
+using Flight_Detection.Entity.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using DbContext = Microsoft.EntityFrameworkCore.DbContext;

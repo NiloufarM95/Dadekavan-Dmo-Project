@@ -1496,6 +1496,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "EntityFramework": "5.0.0",
+          "Flight-Detection.Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
         "compile": {
@@ -1503,6 +1504,16 @@
         },
         "runtime": {
           "bin/placeholder/Flight-Detection.DataAccess.dll": {}
+        }
+      },
+      "Flight-Detection.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Flight-Detection.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flight-Detection.Entity.dll": {}
         }
       }
     }
@@ -5702,6 +5713,11 @@
       "type": "project",
       "path": "../Flight-Detection.DataAccess/Flight-Detection.DataAccess.csproj",
       "msbuildProject": "../Flight-Detection.DataAccess/Flight-Detection.DataAccess.csproj"
+    },
+    "Flight-Detection.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Flight-Detection.Entity/Flight-Detection.Entity.csproj",
+      "msbuildProject": "../Flight-Detection.Entity/Flight-Detection.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {

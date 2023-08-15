@@ -1,0 +1,11 @@
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\bin\Debug\net5.0\Flight-Detection.DataAccess.deps.json
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\bin\Debug\net5.0\Flight-Detection.DataAccess.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\bin\Debug\net5.0\ref\Flight-Detection.DataAccess.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\bin\Debug\net5.0\Flight-Detection.DataAccess.pdb
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.AssemblyInfo.cs
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\ref\Flight-Detection.DataAccess.dll
+C:\Users\Niloofar\Desktop\Dadekavan Demo Project\Flight-Detection\Flight-Detection.DataAccess\obj\Debug\net5.0\Flight-Detection.DataAccess.pdb

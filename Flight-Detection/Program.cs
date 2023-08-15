@@ -4,9 +4,8 @@ using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using CsvHelper;
-using Flight_Detection.Interfaces;
-using Flight_Detection.Models;
-using Flight_Detection.Services;
+using Flight_Detection.DataAccess.Models;
+using Flight_Detection.Service.Services;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Flight_Detection
